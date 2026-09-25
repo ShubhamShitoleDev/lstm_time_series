@@ -46,5 +46,3 @@ To build a time-series forecasting model that learns historical patterns from Re
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
-
-## 📂 Project Structure
