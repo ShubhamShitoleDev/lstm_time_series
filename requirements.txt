@@ -1,0 +1,13 @@
+# Core Data Handling
+numpy>=1.23.5
+pandas>=1.5.3
+
+# Visualization
+matplotlib>=3.7.0
+
+# Machine Learning Utilities
+scikit-learn>=1.2.2
+
+# Deep Learning
+tensorflow>=2.13.0
+keras>=2.13.0
